@@ -8,5 +8,8 @@
 [express Linki](https://www.npmjs.com/package/express)
 
 ###### Udemy kursu yardımıyla ve google üzerinden kaynak taraması yapılarak veritabanında tablo oluşturma ve post işlemi yapan bir kod yazılmıştır. <br/>
-[Udemy Kursunun Linki](https://www.udemy.com/course/komple-web-developer-kursu/)
+[Udemy Kursunun Linki](https://www.udemy.com/course/komple-web-developer-kursu
+
+
+###### Projeyi çalıştırırken terminalden nodemon task.js kodu yardımıyla phpMyAdmin/localhost.una girerek eklenen studentsdatabase tablosunu görebiliriz
 
